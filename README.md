@@ -1,2 +1,3 @@
 # hello-world
 testing the hello-world guide
+Hello, I've never did any coding of my life and I would like to learn....
